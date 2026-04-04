@@ -32,11 +32,7 @@
 
 ---
 
-## 📸 Screenshots
-
-| Dark mode — Landscape | Light mode — Portrait |
-|:---------------------:|:---------------------:|
-| *(side-by-side layout)* | *(stacked layout)* |
+## 🛌 UI
 
 > UI automatically switches layout based on window orientation.
 
@@ -48,14 +44,14 @@
 
 ```bash
 pip install kivy
-python pay2brick_kivy.py
+python P2B.py
 ```
 
 ### 📱 Android (Pydroid 3)
 
 1. Open **Pydroid 3**
 2. Go to **Pip** tab → install `kivy`
-3. Open `pay2brick_kivy.py`
+3. Open `pay2bri.py`
 4. Press the **▶ Play** button *(not the terminal tab)*
 
 > ⚠️ CustomTkinter does not work on Android — this Kivy version was built specifically for cross-platform support.
